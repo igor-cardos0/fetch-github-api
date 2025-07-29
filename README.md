@@ -44,3 +44,26 @@ Utilização de fetch com async/await para trabalhar com Promises
 Tratamento básico de erros de requisição
 
 Consumo de API externa (GitHub REST API)
+
+📌 Objetivo
+O objetivo principal é praticar o uso de requisições assíncronas com fetch, manipulação de JSON e a construção de uma interface interativa com dados em tempo real provenientes de uma API pública.
+
+🚀 Funcionalidades
+✅ Buscar dados de qualquer usuário do GitHub
+
+✅ Exibir avatar, nome, bio, localização e quantidade de repositórios públicos
+
+✅ Interface responsiva e de fácil uso
+
+✅ Tratamento de erros (usuário não encontrado ou campos vazios)
+
+🧠 Tecnologias utilizadas
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+API REST pública do GitHub
+
+
