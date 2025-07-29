@@ -16,14 +16,6 @@ Localização
 
 Link para o perfil
 
-🛠️ Tecnologias utilizadas
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-fetch API com async/await
 
 🧪 Como usar
 Clone o repositório:
